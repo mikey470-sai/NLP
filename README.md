@@ -136,5 +136,5 @@ imdb-sentiment-analysis/
 ## 👤 Author
 
 **Sai Kumaru Naidu Bandaru**  
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+[GitHub](https) · [LinkedIn](https://www.linkedin.com/in/bandaru-sai-kumar-naidu/)
 
